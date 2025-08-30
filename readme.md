@@ -69,7 +69,7 @@ Uma API completa para gerenciamento de usuários com sistema de autenticação s
 
 1. **Clone o repositório**
 ```bash
-git clone <url-do-repositorio>
+git clone (https://github.com/Vitorhmelchor/Gerenciamento-de-Usuarios-API)
 cd gerenciamento-backend
 ```
 2. **Instale as dependências**:
